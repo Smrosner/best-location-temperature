@@ -1,5 +1,5 @@
 import csv
-from sql.db import get_db_connection, create_temperature_table, insert_temperature_data
+from sql.db import create_temperature_table, insert_temperature_data
 
 def etl():
     csv_file_path = 'data/city_temperature.csv'
