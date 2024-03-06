@@ -1,0 +1,8 @@
+2024-03-06 10:12:18,768 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-03-06 10:12:18,768 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-06 10:12:18,782 - INFO -  * Restarting with stat
+2024-03-06 10:12:18,882 - WARNING -  * Debugger is active!
+2024-03-06 10:12:18,894 - INFO -  * Debugger PIN: 147-191-824
+2024-03-06 10:12:34,795 - INFO - 127.0.0.1 - - [06/Mar/2024 10:12:34] "GET /temperature/12 HTTP/1.1" 200 -
+2024-03-06 10:12:46,884 - INFO - 127.0.0.1 - - [06/Mar/2024 10:12:46] "GET /cities HTTP/1.1" 200 -
